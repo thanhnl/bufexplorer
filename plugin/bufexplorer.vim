@@ -374,7 +374,6 @@ function! s:SetLocalSettings()
     setlocal nonumber
     setlocal foldcolumn=0
     setlocal nofoldenable
-    setlocal cursorline
     setlocal nospell
     setlocal nobuflisted
     setlocal filetype=bufexplorer
